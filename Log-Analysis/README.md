@@ -27,5 +27,4 @@ This project stimulates real-world server log monitoring by:
 
 <h2>Code and Output</h2>
 <img align="right" src="./Images/Code.png">
-
 <img align="left" src="./Images/LogOutput.png">
