@@ -23,7 +23,7 @@ This project stimulates real-world server log monitoring by:
 
 <h2>How to Run</h2>
 
-```bash python log_analyzer,py```
+```bash python log_analyzer.py```
 
 <h2>Code and Output</h2>
 <img align="right" src="./Images/Code.png">
